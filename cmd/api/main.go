@@ -1,7 +1,7 @@
 package main
 
 import (
-	"Gebeya.com/internal/server"
+	"github.com/dawitel/Gebeya.com/internal/server"
 	"fmt"
 )
 

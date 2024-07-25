@@ -9,7 +9,7 @@ import (
 
 	_ "github.com/joho/godotenv/autoload"
 
-	"Gebeya.com/internal/database"
+	"github.com/dawitel/Gebeya.com/internal/database"
 )
 
 type Server struct {

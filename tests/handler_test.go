@@ -1,7 +1,7 @@
 package tests
 
 import (
-	"Gebeya.com/internal/server"
+	"github.com/dawitel/Gebeya.com/internal/server"
 	"io"
 	"net/http"
 	"net/http/httptest"

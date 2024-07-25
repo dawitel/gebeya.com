@@ -1,6 +1,17 @@
-# Project Gebeya.com
+# Gebeya.com
 
-One Paragraph of project description goes here
+A distributed microservice for an e-commerce app called gebeya.com. The project is written in Go. This project is only concerned with the backend and infrastructure for the app. Kafka and grpc are used under the hood to facilitate the information exchange and message brokerage. 
+
+The services in this project include the following:
+-> Product Service
+-> Order Service
+-> User Service
+-> Payment Service
+-> Shipping Service
+-> Inventory Service
+-> Search Service
+-> Recommendation Service
+-> Notification Service
 
 ## Getting Started
 

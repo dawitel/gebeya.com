@@ -1,4 +1,4 @@
-module github.com/dawitel/Gebeya.com.git
+module github.com/dawitel/Gebeya.com
 
 go 1.22.0
 
